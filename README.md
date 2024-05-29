@@ -1,3 +1,5 @@
+⚠️ This repo was created for Aztec Connect, which is now deprecated. You can read more about the deprecation [here](https://docs.aztec.network/aztec_connect_sunset).
+
 # wallet-ui
 
 Demo react library for using a secure Aztec Wallet. Uses Aztec Alpha SDK that demos this feature.
